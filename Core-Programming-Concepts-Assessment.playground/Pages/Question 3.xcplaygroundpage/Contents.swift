@@ -23,7 +23,19 @@
  
  */
 // Answer question 3 below
-let grandeparents
+var spendingmoney : Double = 0
+
+spendingmoney +,= 50
+spendingmoney /,= 3
+spendingmoney +,= 10
+spendingmoney -,= 10
+spendingmoney +,= 10
+spendingmoney -,= 5.5
+
+
+
+
+
 
 /*:
  ## Now share your understanding
