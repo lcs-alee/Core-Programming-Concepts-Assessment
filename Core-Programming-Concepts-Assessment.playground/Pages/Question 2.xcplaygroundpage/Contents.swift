@@ -24,7 +24,12 @@
  
  */
 // Answer question 2 below
-
+let bookName = "book"
+var copiesold = 12
+let authorName = "Author"
+var sellingprice = 20
+let yearpublished = 500
+print (" I used let statement for bookname, authorname, yearpublished because these would not change but I used var for sellingprice and copiesold because these values can always change".)
 /*:
  ## Now share your understanding
  
