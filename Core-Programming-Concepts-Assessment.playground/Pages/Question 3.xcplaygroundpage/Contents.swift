@@ -23,6 +23,7 @@
  
  */
 // Answer question 3 below
+let grandeparents
 
 /*:
  ## Now share your understanding
