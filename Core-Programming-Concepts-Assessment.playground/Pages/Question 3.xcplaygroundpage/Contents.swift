@@ -25,12 +25,12 @@
 // Answer question 3 below
 var spendingmoney : Double = 0
 
-spendingmoney +,= 50
-spendingmoney /,= 3
-spendingmoney +,= 10
-spendingmoney -,= 10
-spendingmoney +,= 10
-spendingmoney -,= 5.5
+spendingmoney += 50
+spendingmoney /= 3
+spendingmoney += 10
+spendingmoney -= 10
+spendingmoney += 10
+spendingmoney -= 5.5
 
 
 
