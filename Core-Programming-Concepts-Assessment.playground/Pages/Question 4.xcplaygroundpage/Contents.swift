@@ -23,6 +23,11 @@
  
  */
 // Answer question 4 below
+var appsusedtoday : Int = 3
+var totalhours : Double = 3.5
+var popularapp : String = " given day"
+let date : Stirng = "Thursday, January 18, 2018"
+
 
 /*:
  ## Now share your understanding
